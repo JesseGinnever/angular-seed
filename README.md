@@ -54,6 +54,8 @@ Start server.js
 node server.js
 ```
 
+Test that the (REST request)[http://localhost:3000/github/followers?username=octocat] is returning XML correctly
+
 ### Run the Angular Application
 
 We have preconfigured the project with a simple development web server. The simplest way to start
